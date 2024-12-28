@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Vitor Fonetenele and I am a student at Ipluso in Web Development and Mobile Devices
+My name is Vitor Fontenele and I am a student at Ipluso in Web Development and Mobile Devices
 
 
 
